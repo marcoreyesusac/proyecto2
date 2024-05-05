@@ -1,0 +1,8 @@
+9.0
+6
+2 SQLCHAR 0 4 "," 1 Codigo_maestro SQL_Latin1_General_CP1_CI_AS
+4 SQLCHAR 0 50 "," 2 nombre SQL_Latin1_General_CP1_CI_AS
+6 SQLCHAR 0 1 "," 3 tipo SQL_Latin1_General_CP1_CI_AS
+7 SQLCHAR 0 9 "," 4 transacion SQL_Latin1_General_CP1_CI_AS
+8 SQLCHAR 0 50 "," 5 Clave1 SQL_Latin1_General_CP1_CI_AS
+9 SQLCHAR 0 50 "\n" 6 Clave2 SQL_Latin1_General_CP1_CI_AS
